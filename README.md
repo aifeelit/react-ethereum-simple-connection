@@ -6,11 +6,6 @@ tags:
 - react
 - solidity
 status: complete
-twitter: https://twitter.com/relativeread
----
-
-## Modular 23-2019
-
 
 # Simple Ethereum React Connenction
 
